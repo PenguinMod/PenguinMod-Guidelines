@@ -107,7 +107,7 @@ We will make a better system for this soon.
 ### Preventing or Removing access to parts of the site
 You may **not** remove or prevent access to any part of the project or website.
 If the moderators can not access the project and its contents from within the site, it will be removed.
-Examples:
+Examples of what you can not do:
 - Removing or preventing the use of the "See Inside" button
 - Removing or preventing the use of the "File" menu
 - Removing sprites, costumes or sounds if the project is opened
