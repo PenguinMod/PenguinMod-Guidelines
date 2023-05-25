@@ -98,7 +98,6 @@ Any company or business reserves the right to take down your project if they bel
 
 Reasons your project might be removed are:
 - Including logos or designs without their owner's explicit permission
-- Using other peoples code without their explicit permission
 - Using other peoples artwork or music without their explicit permission
 
 If you are a company and believe your copyright has been violated, you will have to contact us via Discord currently.
