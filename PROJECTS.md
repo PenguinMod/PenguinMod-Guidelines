@@ -105,6 +105,7 @@ If you are a company and believe your copyright has been violated, you will have
 We will make a better system for this soon.
 
 ### Preventing or Removing access to parts of the site
+You may **not** remove or prevent access to any part of the project or website.
 If the moderators can not access the project and its contents from within the site, it will be removed.
 Examples:
 - Removing or preventing the use of the "See Inside" button
