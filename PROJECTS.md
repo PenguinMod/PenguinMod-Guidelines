@@ -1,5 +1,7 @@
 # Project Uploading & Updating guidelines
-*These guidelines do not affect projects uploaded before May 25th 2023, unless those projects get updated.*
+Most of these rules do not affect projects uploaded before May 25th, 2023, unless those projects get updated.
+
+The only rules that can affect existing projects are "Use other platforms sparingly", "Copyright", and "Projects with a messaging feature".
 
 ## Important Note
 These guidelines only apply to PenguinMod's project sharing.
