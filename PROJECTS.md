@@ -120,7 +120,7 @@ Your project **MUST** have moderation.
 If you cannot moderate your project properly, it will be removed.
 
 Your messaging feature cannot allow users to:
-- Use a user-uploaded profile picture
-- Attach images, video or any media
-- Link to any websites
+- Use a user-uploaded profile picture (unless you can moderate them so they follow above guidelines wherever they apply)
+- Attach images, video or any media (unless you can moderate them so they follow above guidelines wherever they apply)
+- Link to any websites (unless you can moderate them so they follow above guidelines wherever they apply)
 - Break any of the rules in the "Be respectful to others" section
