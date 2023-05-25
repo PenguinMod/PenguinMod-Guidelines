@@ -104,10 +104,12 @@ If you are a company and believe your copyright has been violated, you will have
 
 We will make a better system for this soon.
 
-### Do not prevent access to "See Inside" your project.
-To approve your projects, moderators must be able to see the contents of the project.
-
-By removing the ability to See Inside the project, we can't verify the contents of your project and will have to remove it.
+### Preventing or Removing access to parts of the site
+If the moderators can not access the project and its contents from within the site, it will be removed.
+Examples:
+- Removing or preventing the use of the "See Inside" button
+- Removing or preventing the use of the "File" menu
+- Removing sprites, costumes or sounds if the project is opened
 
 ### Limits on Audio
 If any audio clips in your project are past the top of the audio preview in the Sounds tab,
