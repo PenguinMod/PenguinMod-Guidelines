@@ -84,8 +84,8 @@ or encourage others to commit crimes or do anything against those laws.
 
 You cannot encourage others to use real-life guns or explosives.
 You also cannot:
-- Make reference to shooting living things
-- Make reference to shooting buildings
+- Encourage or make reference to shooting living things in real life
+- Encourage or make reference to shooting buildings in real life
 
 ### Money
 You cannot sell products for real money inside your project.
