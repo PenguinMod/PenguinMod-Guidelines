@@ -95,6 +95,7 @@ Let us know of any other sites we can allow if you need them.
 
 ### Copyright
 Any company or business reserves the right to take down your project if they believe it violates their copyright.
+
 Reasons your project might be removed are:
 - Including logos or designs without their owner's explicit permission
 - Using other peoples code without their explicit permission
@@ -106,7 +107,9 @@ We will make a better system for this soon.
 
 ### Preventing or Removing access to parts of the site
 You may **not** remove or prevent access to any part of the project or website.
+
 If the moderators can not access the project and its contents from within the site, it will be removed.
+
 Examples of what you can not do:
 - Removing or preventing the use of the "See Inside" button
 - Removing or preventing the use of the "File" menu
@@ -120,6 +123,7 @@ This also applies if you are using multiple audio clips to play loud/unpleasant 
 
 ### "Chatroom" Projects or Projects with a messaging feature
 Your project **MUST** have moderation.
+
 If you cannot moderate your project properly, it will be removed.
 
 Your messaging feature cannot allow users to:
