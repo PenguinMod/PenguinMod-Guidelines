@@ -25,6 +25,12 @@ You also shouldn't upload empty or default projects.
 If you keep doing this, you wont be able to post projects for a day or more
 (depending on if you already got punished for it).
 
+### PenguinMod Forks
+If your project only works outside of PenguinMod, don't upload it to our site.
+All PenguinMod projects should actually work on PenguinMod, we don't want to approve something that crashes the site instantly.
+
+(Note for developers: If we get a lot of projects uploaded from your mod that don't work on PenguinMod, we'll likely end up blocking your site from the API. See [here for details](https://github.com/PenguinMod/penguinmod.github.io/blob/develop/FORKING.md).)
+
 ### Be respectful to others.
 Your project cannot contain any derogatory terms (slurs).
 You will likely get banned for posting a project with these.
