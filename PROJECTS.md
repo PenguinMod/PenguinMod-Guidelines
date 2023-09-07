@@ -25,6 +25,17 @@ You also shouldn't upload empty or default projects.
 If you keep doing this, you wont be able to post projects for a day or more
 (depending on if you already got punished for it).
 
+### Projects uploaded that were shared on Scratch (Scratch Reuploads)
+If you are just taking a Scratch project that was shared on Scratch and uploading it onto PenguinMod, please note the following:
+
+- The PenguinMod version must have a change in the code (ex: changing a costume would end up being rejected still)
+- The code change should be meaningful (ex: a bug fix not in the Scratch version wouldn't count as a meaningful change)
+
+This means like something extra should have been added, or something important in the project was changed like a gameplay difference or added difficulty.
+
+If you are not following any of the above changes:
+- The PenguinMod project can have changes planned later (in this case, the above rules would be considered after you have updated the project)
+
 ### PenguinMod Forks
 If your project only works outside of PenguinMod, don't upload it to our site.
 All PenguinMod projects should actually work on PenguinMod, we don't want to approve something that crashes the site instantly.
@@ -52,6 +63,8 @@ Your project should not put others in danger. General rules for this are:
 - You cannot use their general location without full consent. If you need to, you can just put a pop-up asking if you can use their location, with a simple Yes and No button.
 - You cannot ask others for their full name, password on any site, phone number, email address, or legal details.
 - You cannot take pictures of others without full consent.
+
+Faking personal information (ex: showing a fake IP address) should be noted in the project itself or the project's notes.
 
 You cannot make reference to:
 - Terrorism
@@ -122,7 +135,7 @@ Examples of what you can not do:
 
 ### Limits on Audio
 If any audio clips in your project are past the top of the audio preview in the Sounds tab,
-moderators are allowed to mute/remove those sounds or remove your project.
+moderators are allowed to mute/remove those sounds or reject your project.
 
 This also applies if you are using multiple audio clips to play loud/unpleasant audio.
 
